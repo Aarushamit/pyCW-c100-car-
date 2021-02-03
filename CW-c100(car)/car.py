@@ -8,4 +8,4 @@ class Car(object):
     def setModel(self, model, brand):
         self.brand[model] = brand
     def Getmodel(self, model):
-       returnk self.brand[model] 
+       return self.brand[model] 
